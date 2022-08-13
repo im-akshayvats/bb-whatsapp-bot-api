@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const uri = 'mongodb://localhost:27017/bb-whatsapp-bot-api';
+const uri = process.env.uri
 
 mongoose.connect(uri, (err) => {
   if (err) {
