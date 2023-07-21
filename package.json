@@ -20,6 +20,6 @@
   "homepage": "https://github.com/im-akshayvats/bb-whatsapp-bot-api#readme",
   "dependencies": {
     "express": "^4.18.1",
-    "mongoose": "^6.5.1"
+    "mongoose": "^6.11.3"
   }
 }
